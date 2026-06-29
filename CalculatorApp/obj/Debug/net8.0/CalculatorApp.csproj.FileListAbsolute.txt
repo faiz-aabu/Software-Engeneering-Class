@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\refint\
 C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
 C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
