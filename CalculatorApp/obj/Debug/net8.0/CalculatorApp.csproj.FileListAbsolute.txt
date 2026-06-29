@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Software_Engneering\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
